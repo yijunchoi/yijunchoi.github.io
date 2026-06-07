@@ -3,3 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: yc4703@columbia.edu # your email address
+github_username: yijunchoi
+linkedin_username: ychoi4703
